@@ -5,7 +5,7 @@ class Cat extends Animal {
     }
     public void meow() {
 
-        System.out.println("Meow! Meow!");
+        System.out.println("Мяу! Мяу!");
     }
 
     public String isStray() {
