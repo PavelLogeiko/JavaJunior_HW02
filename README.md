@@ -12,4 +12,4 @@
 Скрин работы приложения.
 
 
-![1](https://github.com/PavelLogeiko/JavaJunior_HW02/blob/main/images/1.png)
+![1](https://github.com/PavelLogeiko/JavaJunior_HW02/blob/main/images/1_.png)
