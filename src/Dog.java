@@ -3,7 +3,7 @@ class Dog extends Animal {
         super(name, age, breed);
     }
     public void makeSound() {
-        System.out.println("Woof! Woof!");
+        System.out.println("Гав! Гав!");
     }
 
     public String getBreed() {
